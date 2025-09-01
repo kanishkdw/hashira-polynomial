@@ -1,0 +1,12 @@
+{
+  "name": "hashira-polynomial",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "solve2": "node solve.js testcase2.json",
+    "verify2": "node verify.js testcase2.json",
+    "solve1": "node solve.js testcase1.json",
+    "verify1": "node verify.js testcase1.json"
+  }
+}
